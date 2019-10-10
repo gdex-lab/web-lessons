@@ -43,7 +43,7 @@ https://www.w3schools.com/js/js_htmldom_css.asp
 
 
 #### AJ's code:
-<!DOCTYPE html>
+```<!DOCTYPE html>
 <html>will both buttons?
 <body id="b" style="background-color:DodgerBlue;">
   <h1>will you to</h1>
@@ -55,3 +55,4 @@ Will you click both buttons???
   </body>
 </html>
 <button onclick="document.getElementById('b').style.background='Red'">This button does nothing2!</button>
+```
