@@ -38,3 +38,20 @@ https://www.w3schools.com/js/js_htmldom_css.asp
 </body>
 </html>
 ```
+
+
+
+
+#### AJ's code:
+<!DOCTYPE html>
+<html>will both buttons?
+<body id="b" style="background-color:DodgerBlue;">
+  <h1>will you to</h1>
+<img src="https://res.cloudinary.com/dk-find-out/image/upload/q_80,w_1920,f_auto/Mosasaurus_00824573_dhgg11.jpg" height=200 alt="The Strongest being">
+<p style="color:MediumSeaGreen;">
+<p>The Mosasaurus</p>
+<button onclick="document.getElementById('b').style.background='Blue'">This button does nothing!</button>
+Will you click both buttons???
+  </body>
+</html>
+<button onclick="document.getElementById('b').style.background='Red'">This button does nothing2!</button>
